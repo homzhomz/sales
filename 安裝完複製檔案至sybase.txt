@@ -1,0 +1,8 @@
+複製
+MSVCR71.dll
+MSVCP71.dll
+ATL71.DLL
+
+這3個檔案至底下
+C:\Program Files\Sybase\Shared\PowerBuilder
+
